@@ -30,7 +30,7 @@ Data can be found at : https://bit.ly/3kXTdox
 
 ## Stock Market Prediction using Numerical and Textual Analysis:
 Create a hybrid model for stock price/performance prediction using numerical analysis of historical stock prices, and sentimental analysis of news headlines.
--> In this we Created a hybrid model for stock price/performance prediction using numerical analysis of historical stock prices, and sentimental analysis of news headlines and also predicted the stock price and analyzed the historical stock prices.
+In this we Created a hybrid model for stock price/performance prediction using numerical analysis of historical stock prices, and sentimental analysis of news headlines and also predicted the stock price and analyzed the historical stock prices.
 
 ### Timeline Analysis: Covid-19
 -> In this task we Created a dashboard showing spread of Covid-19 cases in your country or any

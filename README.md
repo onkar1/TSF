@@ -20,7 +20,6 @@ Perform ‘Exploratory Data Analysis’ on the provided dataset ‘SampleSuperst
 Data can be found at : https://bit.ly/3i4rbWl
 
 ![Flow Chart](Super_Market_Dashboard.png)
-Format: ![Alt Text](url)
 
 ## Prediction using Decision Tree Algorithm: 
 For the given ‘Iris’ dataset, create the Decision Tree classifier and visualize it
@@ -38,4 +37,3 @@ Create a hybrid model for stock price/performance prediction using numerical ana
 region and also we Identifyed interesting patterns and possible reasons  helping Covid-19 spread with basis as well as advanced charts at the end Screen-recorded and completed storyboard along with given recommendations.
 
 ![Flow Chart](Covid_19_Dashboard.png)
-Format: ![Alt Text](url)
